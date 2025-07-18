@@ -1,6 +1,6 @@
 # 📚 Library Management API
 
-A Library Management System built with **Express**, **TypeScript**, and **MongoDB (Mongoose)**. This API allows you to manage books and borrowing operations with robust validation, business logic, and aggregation features.
+A Library Management System built with **Express**, **TypeScript**, and **MongoDB (Mongoose)**. This API allows us to manage books and borrowing operations with robust validation, business logic, and aggregation features.
 
 ---
 
@@ -47,7 +47,7 @@ https://www.loom.com/share/0b4b119a9dc04f42b46c2a386c853f98" width="400"/>
    - Add your MongoDB URI:
      ```
      MONGODB_URI=mongodb://localhost:27017/librarydb
-     PORT=5000
+     PORT=3000
      ```
 
 4. **Run the Server**
@@ -244,14 +244,8 @@ NXTA-03/
 
 ---
 
-## 🎥 Video Explanation
-
-A short video explaining the key features and logic is available at: [Demo Video Link](https://youtu.be/demo)
-
----
-
 ## 🌐 Live Deployment
 
-Live API: [Demo Deployment Link](https://demo-library-api.vercel.app)
+Live API: [Demo Deployment Link](https://nxta-03.vercel.app/)
 
 ---
