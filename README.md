@@ -20,11 +20,9 @@ A Library Management System built with **Express**, **TypeScript**, and **MongoD
 ## 🎥 Video Explanation
 
 <a href="https://www.loom.com/share/0b4b119a9dc04f42b46c2a386c853f98" target="_blank">
-  <img src="https://i.ibb.co/MkP9Q95R/library-management.jpg" alt="Watch the video" width="400"/>
+  <img src="https://i.ibb.co/MkP9Q95R/library-management.jpg" alt="A short video explaining the key features and logic is available at:
+https://www.loom.com/share/0b4b119a9dc04f42b46c2a386c853f98" width="400"/>
 </a>
-
-A short video explaining the key features and logic is available at:
-https://www.loom.com/share/0b4b119a9dc04f42b46c2a386c853f98
 
 ---
 
