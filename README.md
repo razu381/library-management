@@ -32,7 +32,7 @@ https://www.loom.com/share/0b4b119a9dc04f42b46c2a386c853f98" width="400"/>
 
    ```
    git clone https://github.com/razu381/library-management
-   cd NXTA-03
+   cd library-management
    ```
 
 2. **Install Dependencies**
