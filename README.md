@@ -19,11 +19,12 @@ A Library Management System built with **Express**, **TypeScript**, and **MongoD
 
 ## 🎥 Video Explanation
 
-<a href="https://youtu.be/demo" target="_blank">
-  <img src="https://img.youtube.com/vi/demo/0.jpg" alt="Watch the video" width="400"/>
+<a href="https://www.loom.com/share/0b4b119a9dc04f42b46c2a386c853f98" target="_blank">
+  <img src="https://i.ibb.co/MkP9Q95R/library-management.jpg" alt="Watch the video" width="400"/>
 </a>
 
-A short video explaining the key features and logic is available at: [Demo Video Link](https://youtu.be/demo)
+A short video explaining the key features and logic is available at:
+https://www.loom.com/share/0b4b119a9dc04f42b46c2a386c853f98
 
 ---
 
@@ -32,7 +33,7 @@ A short video explaining the key features and logic is available at: [Demo Video
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/demo/library-management-api.git
+   git clone https://github.com/razu381/library-management
    cd NXTA-03
    ```
 
